@@ -1,0 +1,10 @@
+[Unit]
+type = Script
+name = confirm_dialog
+description = Ejercicios sobre dialogos comunes en Python
+createdBy = gavg712
+version = 1
+
+[Script]
+main = main
+Lang = python
